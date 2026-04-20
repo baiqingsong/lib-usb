@@ -1,0 +1,28 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.dawn.lib_usb" >
+4
+5    <uses-sdk android:minSdkVersion="28" />
+5-->D:\lib\12.lib-usb\lib-usb\library\src\main\AndroidManifest.xml
+6
+7    <uses-feature
+7-->D:\lib\12.lib-usb\lib-usb\library\src\main\AndroidManifest.xml:4:5-87
+8        android:name="android.hardware.usb.host"
+8-->D:\lib\12.lib-usb\lib-usb\library\src\main\AndroidManifest.xml:4:19-59
+9        android:required="false" />
+9-->D:\lib\12.lib-usb\lib-usb\library\src\main\AndroidManifest.xml:4:60-84
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->D:\lib\12.lib-usb\lib-usb\library\src\main\AndroidManifest.xml:6:5-80
+11-->D:\lib\12.lib-usb\lib-usb\library\src\main\AndroidManifest.xml:6:22-77
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->D:\lib\12.lib-usb\lib-usb\library\src\main\AndroidManifest.xml:7:5-81
+12-->D:\lib\12.lib-usb\lib-usb\library\src\main\AndroidManifest.xml:7:22-78
+13    <uses-permission
+13-->D:\lib\12.lib-usb\lib-usb\library\src\main\AndroidManifest.xml:8:5-9:38
+14        android:name="android.permission.MANAGE_EXTERNAL_STORAGE"
+14-->D:\lib\12.lib-usb\lib-usb\library\src\main\AndroidManifest.xml:8:22-79
+15        android:minSdkVersion="30" />
+15-->D:\lib\12.lib-usb\lib-usb\library\src\main\AndroidManifest.xml:9:9-35
+16
+17</manifest>

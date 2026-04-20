@@ -1,0 +1,7 @@
+#Tue Apr 21 00:45:31 CST 2026
+base.0=D\:\\lib\\12.lib-usb\\lib-usb\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.1=D\:\\lib\\12.lib-usb\\lib-usb\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\13\\classes.dex
+path.0=0/classes.dex
+path.1=13/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
